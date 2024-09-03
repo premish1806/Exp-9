@@ -1,6 +1,7 @@
 # Exp-9 Pointers in C++
 
-## Aim:To understand the concept of pointers in C++ by declaring and initializing pointers of different data types, and accessing arrays using pointers and without using pointers.
+## Aim:
+To understand the concept of pointers in C++ by declaring and initializing pointers of different data types, and accessing arrays using pointers and without using pointers.
 
 ## Software Used:
 - Dev c++
