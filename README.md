@@ -36,6 +36,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/dec7f53b-ab0d-479c-b6b1-c5b166044da0)
 
 
 <strong> Code 1B : Float </strong>
@@ -61,6 +62,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/3918f149-6854-4ea9-b220-57b81e0524cb)
 
 
 
@@ -87,6 +89,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/f68787ff-cbf0-430b-a78a-11813eded71b)
 
 
 
@@ -112,6 +115,7 @@ int main()
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/f69188e4-e872-4514-a33f-0ee4a5b0e480)
 
 <strong> Code 2B : Access Array without Pointer </strong>
 <br>
@@ -131,7 +135,8 @@ int main()
 }
 ```
 <strong> Output: </strong>
-<br>
+<br>![image](https://github.com/user-attachments/assets/cd351efc-1e80-4f35-b2ee-5a15fcc83fc7)
+
 
 ## Conclusion: 
 Through these programs, we learned how to declare and initialize pointers for different data types and how to access array elements using pointers and without pointers. Understanding pointer arithmetic and memory addressing is crucial for effective C++ programming.
