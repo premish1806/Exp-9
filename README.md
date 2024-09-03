@@ -13,7 +13,7 @@ The primary difference between accessing arrays using pointers and without point
 
 ## Program 1: Declare and initialize pointers of different data types and print the following values (Repeat for float and char data types).
 
-<strong> Code 1A: INT </strong>
+<strong> Code 1A : INT </strong>
 <br>
 ```cpp
 // Premish Ninawe
@@ -38,7 +38,7 @@ int main()
 <br>
 
 
-<strong> Code 1B: Float </strong>
+<strong> Code 1B : Float </strong>
 <br>
 ```cpp
 // Premish Ninawe
@@ -64,7 +64,7 @@ int main()
 
 
 
-<strong> Code 1C: Char </strong>
+<strong> Code 1C : Char </strong>
 <br>
 ```cpp
 // Premish Ninawe
@@ -92,7 +92,7 @@ int main()
 
 ## Program 2:Access array using pointer and without using pointer variable.
 
-<strong> Code 2A: Access Array with Pointer </strong>
+<strong> Code 2A : Access Array with Pointer </strong>
 <br>
 ```cpp
 // Premish Ninawe
@@ -113,7 +113,7 @@ int main()
 <strong> Output: </strong>
 <br>
 
-<strong> Code 2B: Access Array without Pointer </strong>
+<strong> Code 2B : Access Array without Pointer </strong>
 <br>
 ```cpp
 // Premish Ninawe
@@ -133,7 +133,7 @@ int main()
 <strong> Output: </strong>
 <br>
 
-##Conclusion: 
+## Conclusion: 
 Through these programs, we learned how to declare and initialize pointers for different data types and how to access array elements using pointers and without pointers. Understanding pointer arithmetic and memory addressing is crucial for effective C++ programming.
 
 
